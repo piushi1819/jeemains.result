@@ -1,1 +1,0 @@
-# jeemains.result
